@@ -3,10 +3,6 @@
 
 所有项目均包括：**源码、论文、任务书、PPT**
 
-由于github仓库容量限制，无法将项目上传至仓库
-
-现将项目打包放到**百度网盘**，网盘**链接**如下（**如果链接失效请添加我主页联系方式获取**）：
-
   [https://pan.baidu.com/s/1pDTxV9K4uvgxX3bZ7iYsOg?pwd=i5ec](https://pan.baidu.com/s/1pDTxV9K4uvgxX3bZ7iYsOg?pwd=i5ec)    提取码：i5ec
 
 ### 项目预览：
